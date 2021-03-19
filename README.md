@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghostbear99
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning ASP.NET, ReactJS
+- 🌱 I’m currently learning ASP.NET, ReactJS, NodeJS, Flutter, APIs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
